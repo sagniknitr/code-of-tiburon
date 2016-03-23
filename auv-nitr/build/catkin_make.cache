@@ -1,0 +1,2 @@
+vn_100
+-DCATKIN_DEVEL_PREFIX=/home/opp/Documents/auv-nitr/devel -DCMAKE_INSTALL_PREFIX=/home/opp/Documents/auv-nitr/install -G Unix Makefiles

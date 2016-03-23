@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="vn_100" pkg="vn_100" type="vn_100">
+  <param name="kp_yaw" type="double" value="0.0" />
+  <param name="ki_yaw" type="double" value="0.0" />
+  <param name="kd_yaw" type="double" value="0.0" />
+  <param name="setpoint_yaw" type="double" value="0.0" />
+  <param name="kp_depth" type="double" value="232.0" />
+  <param name="ki_depth" type="double" value="0.0" />
+  <param name="kd_depth" type="double" value="0.0" />
+  <param name="setpoint_depth" type="double" value="996.0" />
+  <param name="bool_param" type="bool" value="False" />
+</node>
+\endverbatim
+

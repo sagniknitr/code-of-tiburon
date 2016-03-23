@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/opp/Documents/auv-nitr/devel/include/vn_100/ins_data.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+std_msgs/Header.h
+-
+geometry_msgs/Vector3.h
+-
+
+/home/opp/Documents/auv-nitr/src/vn_100/src/pub_rviz.cpp
+ros/ros.h
+-
+visualization_msgs/Marker.h
+-
+vn_100/ins_data.h
+-
+

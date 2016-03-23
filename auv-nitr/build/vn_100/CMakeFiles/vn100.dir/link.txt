@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libvn100.so -o /home/opp/Documents/auv-nitr/devel/lib/libvn100.so CMakeFiles/vn100.dir/vnccpplib/src/vn100.c.o 

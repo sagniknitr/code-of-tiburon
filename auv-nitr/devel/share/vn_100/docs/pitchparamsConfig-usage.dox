@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="control" pkg="vn_100" type="control">
+  <param name="kp_pitch" type="double" value="10.0" />
+  <param name="ki_pitch" type="double" value="0.9" />
+  <param name="kd_pitch" type="double" value="0.0" />
+  <param name="setpoint" type="double" value="0.0" />
+  <param name="bool_param" type="bool" value="False" />
+</node>
+\endverbatim
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn100.h
+vncp_services.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vncp_services.h
+vn_kinematics.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_kinematics.h
+vn_linearAlgebra.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_linearAlgebra.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_errorCodes.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_kinematics.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_linearAlgebra.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vncp_services.h
+Windows.h
+-
+pthread.h
+-
+vn_errorCodes.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_errorCodes.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/vn100.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+vn100.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/vn100.h
+vn_errorCodes.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/vn_errorCodes.h
+

@@ -1,0 +1,14 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~kp_yaw" : \b [double] kp_yaw value min: 0.0, default: 0.0, max: 2.0
+- \b "~ki_yaw" : \b [double] ki_yaw value min: 0.0, default: 0.0, max: 2.0
+- \b "~kd_yaw" : \b [double] kd_yaw value min: 0.0, default: 0.0, max: 2.0
+- \b "~setpoint_yaw" : \b [double] setpoint_yaw min: -30.0, default: 0.0, max: 30.0
+- \b "~kp_depth" : \b [double] kp_depth value min: 0.0, default: 232.0, max: 500.0
+- \b "~ki_depth" : \b [double] ki_depth value min: 0.0, default: 0.0, max: 100.0
+- \b "~kd_depth" : \b [double] kd_depth value min: 0.0, default: 0.0, max: 100.0
+- \b "~setpoint_depth" : \b [double] setpoint_deph min: 992.0, default: 996.0, max: 1300.0
+- \b "~bool_param" : \b [bool] a booleam parameter min: False, default: False, max: True
+

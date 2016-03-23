@@ -1,0 +1,8 @@
+prefix=/home/opp/Documents/auv-nitr/install
+
+Name: vn_100
+Description: Description of vn_100
+Version: 0.0.0
+Cflags: -I/home/opp/Documents/auv-nitr/install/include
+Libs: -L/home/opp/Documents/auv-nitr/install/lib -lvn_100
+Requires: message_runtime

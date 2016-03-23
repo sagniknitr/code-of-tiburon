@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_errorCodes.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vncp_services.h
+Windows.h
+-
+pthread.h
+-
+vn_errorCodes.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/include/vn_errorCodes.h
+
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/arch/linux/vncp_services.c
+stdlib.h
+-
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+errno.h
+-
+string.h
+-
+vncp_services.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/arch/linux/vncp_services.h
+vn_errorCodes.h
+/home/opp/Documents/auv-nitr/src/vn_100/vnccpplib/src/arch/linux/vn_errorCodes.h
+

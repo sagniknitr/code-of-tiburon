@@ -1,0 +1,10 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~kp_pitch" : \b [double] pitch proportional param min: 0.0, default: 10.0, max: 30.0
+- \b "~ki_pitch" : \b [double] pitch integral parameter min: 0.0, default: 0.9, max: 30.0
+- \b "~kd_pitch" : \b [double] pitch derivative parameter min: 0.0, default: 0.0, max: 1.0
+- \b "~setpoint" : \b [double] pitch setpoint min: 0.0, default: 0.0, max: 90.0
+- \b "~bool_param" : \b [bool] to time the values min: False, default: False, max: True
+

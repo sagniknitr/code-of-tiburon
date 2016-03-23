@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,libvncp_services.so -o /home/opp/Documents/auv-nitr/devel/lib/libvncp_services.so CMakeFiles/vncp_services.dir/vnccpplib/src/arch/linux/vncp_services.c.o -lpthread 

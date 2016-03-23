@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "vn_100")
+set(vn_100_MAINTAINER "satishkumar <satishkumar@gmail.com>")
+set(vn_100_DEPRECATED "")
+set(vn_100_VERSION "0.0.0")
+set(vn_100_BUILD_DEPENDS "roscpp" "rospy" "visualization_msgs" "geometry_msgs" "sensor_msgs" "tf" "dynamic_reconfigure")
+set(vn_100_RUN_DEPENDS "visualization_msgs" "message_runtime" "roscpp" "rospy" "dynamic_reconfigure" "sensor_msgs" "geometry_msgs" "tf")
+set(vn_100_BUILDTOOL_DEPENDS "catkin")
